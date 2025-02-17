@@ -6,5 +6,5 @@
 *.iml
 out
 gen
-.mlartifacts
-.mlruns
+mlartifacts
+mlruns
